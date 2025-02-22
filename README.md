@@ -45,9 +45,9 @@ This Bash script automates the process of updating your LimeSurvey installation.
 
 ## Getting Started
 
-### 1. Clone the Repository
+### 1. Download the script
 
-Clone the repository to your local machine:
+Download the script to your local machine:
 
 ```bash
 wget https://github.com/HajasDS/LimeSurvey-updater/blob/main/limeupdater.sh
