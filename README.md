@@ -35,13 +35,9 @@ This Bash script automates the process of updating your LimeSurvey installation.
 
 ## Requirements
 
-- Bash
-- systemd (with `systemctl`)
 - `wget`
 - `unzip`
 - `rsync`
-- PHP
-- Sudo privileges
 
 ## Getting Started
 
