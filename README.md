@@ -50,8 +50,7 @@ This Bash script automates the process of updating your LimeSurvey installation.
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/HajasDS/LimeSurvey-updater.git
-cd LimeSurvey-updater
+wget https://github.com/HajasDS/LimeSurvey-updater/blob/main/limeupdater.sh
 ```
 
 ### 2. Make the Script Executable
@@ -59,13 +58,13 @@ cd LimeSurvey-updater
 Run the following command to make the script executable:
 
 ```bash
-chmod +x limeupdater.sh.sh
+chmod +x limeupdater.sh
 ```
 
 ### 3. Run the Script
 
 ```bash
-sudo ./limeupdater.sh.sh
+sudo ./limeupdater.sh
 ```
 
 ## Configuration File
