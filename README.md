@@ -50,7 +50,7 @@ This Bash script automates the process of updating your LimeSurvey installation.
 Download the script to your local machine:
 
 ```bash
-wget https://github.com/HajasDS/LimeSurvey-updater/blob/main/limeupdater.sh
+wget https://raw.githubusercontent.com/HajasDS/LimeSurvey-updater/refs/heads/main/limeupdater.sh
 ```
 
 ### 2. Make the Script Executable
